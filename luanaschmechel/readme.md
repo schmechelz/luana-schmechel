@@ -1,4 +1,4 @@
-# Academia App
+# Sparta Academia
 
 Aplicação web demonstrativa para gestão e apresentação de uma academia.
 
